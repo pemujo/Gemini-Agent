@@ -1,5 +1,5 @@
 # Gemini Agent Blueprints & Skills
-A collection of reference implementations, plain-text skills, and architectural blueprints for building autonomous, long-running workflows with **Gemini Agent** and **Google Workspace**.
+A collection of reference implementations, plain-text skills, and architectural blueprints for building autonomous, long-running workflows with **Gemini Agent**.
 Rather than building custom backend pipelines, managing database state, or maintaining glue code, the blueprints in this repository demonstrate how to turn complex, multi-step enterprise workflows into portable `SKILL.md` specifications that run natively on top of your existing Google Workspace artifacts (Docs, Sheets, Slides, Drive, Gmail, and Calendar).
 
 
