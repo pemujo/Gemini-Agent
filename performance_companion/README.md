@@ -138,7 +138,7 @@ Writing performance reviews and tracking a year's worth of accomplishments is ha
 
 ## 🏗️ Architecture & Deliverables Tier
 
-![Performance Review Companion Architecture & Workflow](generic_flow_diagram.jpg)
+![Performance Review Companion Architecture & Workflow](./assets/flow_diagram.jpg)
 
 The companion utilizes an autonomous, multi-surface architecture with five core deliverables:
 
